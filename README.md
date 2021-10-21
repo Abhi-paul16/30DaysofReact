@@ -31,3 +31,9 @@
 * Learn about What is state lifting.
 * How to render multiple components
 * Whats is UUID
+
+#
+ - [x] <b>Day 5</b>
+
+* How to style React Components
+* UseEffect Hook
