@@ -37,3 +37,9 @@
 
 * How to style React Components
 * UseEffect Hook
+
+#
+ - [x] <b>Day 6</b>
+
+* Start Building first react Project it's Music Player App 
+
