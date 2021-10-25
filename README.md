@@ -51,6 +51,6 @@
 
 #
  - [x] <b>Day 8</b>
+* Procastinated Again
 
-*Procastinated again.
 
