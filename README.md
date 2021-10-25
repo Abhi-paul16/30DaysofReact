@@ -53,4 +53,9 @@
  - [x] <b>Day 8</b>
 * Procastinated Again
 
+#
+ - [x] <b>Day 8</b>
 
+*  Learned of about what is usRef 
+*  how to use fontawesome in react 
+*  and continued building music-player App.
