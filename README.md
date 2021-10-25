@@ -43,3 +43,14 @@
 
 * Start Building first react Project it's Music Player App 
 
+
+#
+ - [x] <b>Day 7</b>
+
+* whole day wasted in travelling tired A.F!! not coded that Day.
+
+#
+ - [x] <b>Day 8</b>
+
+*Procastinated again.
+
