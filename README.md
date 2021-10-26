@@ -59,3 +59,11 @@
 *  Learned of about what is usRef 
 *  how to use fontawesome in react 
 *  and continued building music-player App.
+
+#
+ - [x] <b>Day 9</b>
+
+* music player slider
+* play pause button 
+* update time of songs in app 
+* changes in UI 
