@@ -61,9 +61,16 @@
 *  and continued building music-player App.
 
 #
- - [x] <b>Day 9</b>
+ - [x] <b>Day 10</b>
 
 * music player slider
 * play pause button 
 * update time of songs in app 
 * changes in UI 
+
+#
+ - [x] <b>Day 11</b>
+
+* Created Music Library UI
+* How to Select Songs
+* Refactor all code of music player-app 
