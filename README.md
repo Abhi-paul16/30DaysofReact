@@ -74,3 +74,8 @@
 * Created Music Library UI
 * How to Select Songs
 * Refactor all code of music player-app 
+
+#
+ - [x] <b>Day 12</b>
+
+* Taking notes what i learned till now.
