@@ -78,4 +78,11 @@
 #
  - [x] <b>Day 12</b>
 
+
 * Taking notes what i learned till now.
+
+
+#
+ - [x] <b>Day 13</b>
+
+* Not coded due to headache
