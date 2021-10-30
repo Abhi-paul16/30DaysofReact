@@ -86,3 +86,8 @@
  - [x] <b>Day 13</b>
 
 * Not coded due to headache
+
+#
+ - [x] <b>Day 14</b>
+
+* altmost completed the music-app project uploading on github tomorrow
