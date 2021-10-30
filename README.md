@@ -90,4 +90,4 @@
 #
  - [x] <b>Day 14</b>
 
-* altmost completed the music-app project uploading on github tomorrow
+* Altmost completed the music-app project uploading on github tomorrow
