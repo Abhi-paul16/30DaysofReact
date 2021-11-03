@@ -105,3 +105,5 @@
 
 #
  - [x] <b>Day 17</b>
+
+*  learned how to use useEffect hook properly
