@@ -107,3 +107,8 @@
  - [x] <b>Day 17</b>
 
 *  learned how to use useEffect hook properly
+
+#
+ - [x] <b>Day 18</b>
+
+* Fully completed Music-app and uploded on github.
