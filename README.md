@@ -112,3 +112,8 @@
  - [x] <b>Day 18</b>
 
 * Fully completed Music-app and uploded on github.
+
+#
+ - [x] <b>Day 19</b>
+
+* Diwali ? 'celebration' : 'code time'
