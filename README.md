@@ -143,3 +143,11 @@
 
 *  builded about section of capture build project
 *  Service section not styled anything yet.
+
+#
+ - [x] <b>Day 25</b>
+
+* Builded Faq section of capture build
+* start learning how to use styled componets 
+* Styled About section using styled components
+* styled service section using styled components
