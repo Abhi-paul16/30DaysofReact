@@ -137,3 +137,9 @@
  - [x] <b>Day 23</b>
 
 * Started New Project
+
+#
+ - [x] <b>Day 24</b>
+
+*  builded about section of capture build project
+*  Service section not styled anything yet.
