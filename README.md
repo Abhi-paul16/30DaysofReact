@@ -154,7 +154,13 @@
 
 #
 - [x] <b>Day 26</b>
-* learned  about
-* React virtual DOM
+
+* learned  about React virtual DOM
 * Event delegation in #javascript  
 * and some interview question of React
+
+#
+- [x] <b>Day 27</b>
+
+* React Router
+* Navbar designed 
