@@ -151,3 +151,10 @@
 * start learning how to use styled componets 
 * Styled About section using styled components
 * styled service section using styled components
+
+#
+- [x] <b>Day 26</b>
+* learned  about
+* React virtual DOM
+* Event delegation in #javascript  
+* and some interview question of React
