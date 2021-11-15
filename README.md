@@ -164,3 +164,19 @@
 
 * React Router
 * Navbar designed 
+
+#
+- [x] <b>Day 28</b>
+
+* Not doned anything.
+
+#
+- [x] <b>Day 29</b>
+
+* Not doned anything.
+
+
+* #
+- [x] <b>Day 30</b>
+
+
