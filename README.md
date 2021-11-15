@@ -179,4 +179,7 @@
 * #
 - [x] <b>Day 30</b>
 
+* Just Completed second porject of React
+* and  30 days of react challenge
+ 
 
